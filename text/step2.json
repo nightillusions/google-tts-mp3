@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>An example: If you say \"let’s meet 2nd October at two o'clock\", during a call, KLINK AI will suggest to add this appointment to your calendar.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Hi! Try this demo and listen to the new MP3.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}

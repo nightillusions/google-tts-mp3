@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>As you can see the location is now displayed in Google Maps. When the app is released, more information will be added, such as the distance to your location and the appropriate transportation.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}

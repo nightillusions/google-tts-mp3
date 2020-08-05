@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Try it out! For example say \"61 Russell Square in London\".</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}
