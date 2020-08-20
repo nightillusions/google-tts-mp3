@@ -1,11 +1,11 @@
 {
   "input": {
-    "ssml": "<speak>The following Action Card will show you addresses that are mentioned in the Call.</speak>"
+    "ssml": "<speak>Now to the next Action Card. This one will show you addresses that are mentioned during a call.</speak>"
   },
   "voice": {
     "languageCode": "en-US",
-    "name": "en-US-WAVENET-B",
-    "ssmlGender": "MALE"
+    "name": "en-US-WAVENET-C",
+    "ssmlGender": "FEMALE"
   },
   "audioConfig": {
     "audioEncoding": "MP3"

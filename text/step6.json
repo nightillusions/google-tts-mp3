@@ -4,8 +4,8 @@
   },
   "voice": {
     "languageCode": "en-US",
-    "name": "en-US-WAVENET-B",
-    "ssmlGender": "MALE"
+    "name": "en-US-WAVENET-C",
+    "ssmlGender": "FEMALE"
   },
   "audioConfig": {
     "audioEncoding": "MP3"

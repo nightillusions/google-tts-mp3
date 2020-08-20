@@ -8,8 +8,9 @@ do
   FILENAME=${FILE##*/}
   NAME=${FILENAME%.*}
   LANGCODE=`cat $FILE | jq -r ".voice.languageCode | tostring"`
+  VOICE=`cat $FILE | jq -r ".voice.ssmlGender | tostring"`
 
-  echo "Processing ${FILENAME} file with language ${LANGCODE}..."
+  echo "Processing ${FILENAME} file with language ${LANGCODE} and ${VOICE}..."
   
   curl -X POST \
   -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \
@@ -17,5 +18,5 @@ do
   -d @$FILE \
   https://texttospeech.googleapis.com/v1/text:synthesize | \
   jq -r '.audioContent | tostring' | \
-  base64 --decode > "${MP3_FOLDER}/${NAME}_${LANGCODE}.mp3"
+  base64 --decode > "${MP3_FOLDER}/${NAME}.mp3"
 done
