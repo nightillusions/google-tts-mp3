@@ -4,10 +4,10 @@
   },
   "voice": {
     "languageCode": "de-DE",
-    "name": "de-DE-WAVENET-C",
-    "ssmlGender": "FEMALE"
+    "name": "de-DE-WAVENET-C"
   },
   "audioConfig": {
-    "audioEncoding": "MP3"
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
   }
 }
