@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Wie Sie sehen: Die Adresse, das geeignete Verkehrsmittel und die ungefähre Fahrtzeit werden nun innerhalb der Aktionskarte angezeigt.</speak>"
+    "ssml": "<speak>Wie Sie sehen, wird eine Notiz angezeigt.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

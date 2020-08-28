@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Now to the next Action Card. This one will show you addresses that are mentioned during a call.</speak>"
+    "ssml": "<speak>We hope you enjoyed the demo. Thank you very much for participating!</speak>"
   },
   "voice": {
     "languageCode": "en-US",

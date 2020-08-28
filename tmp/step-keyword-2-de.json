@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Entschuldigung, ich habe Sie nicht verstanden. Könnten Sie das wiederholen?</speak>"
+    "ssml": "<speak>Probieren Sie es selbst aus! Sagen Sie nach dem Ton einen Satz mit dem Wort \"Kunde\" in etwa: \"Bitte geben Sie Ihre Kundennummer an.\"</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

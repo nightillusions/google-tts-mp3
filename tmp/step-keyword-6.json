@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Sorry, I did not understand you. Could you repeat that?</speak>"
+    "ssml": "<speak>Now, after the sound, say one or more sentences that contain your keywords.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

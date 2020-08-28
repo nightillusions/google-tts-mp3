@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Wir hoffen, dass Ihnen die Demo gefallen hat. Vielen Dank für Ihre Teilnahme!</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

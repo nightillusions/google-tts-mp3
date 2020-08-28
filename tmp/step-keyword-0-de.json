@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Probieren Sie es aus! Sagen Sie zum Beispiel \"61 Russell Square in London\".</speak>"
+    "ssml": "<speak>Als nächstes wird CLINQ.ai Notizen für Sie erstellen.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

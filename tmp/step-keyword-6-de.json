@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Hallo! Hier können Sie eine Demo ausprobieren, wie CLINQ AI Termine in Ihrem Kalender erstellen würde.</speak>"
+    "ssml": "<speak>Sagen Sie nun nach dem Ton einen oder mehrere Sätze, die Ihre Schlüsselwörter enthalten.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

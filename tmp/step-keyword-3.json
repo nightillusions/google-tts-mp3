@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Try it for yourself: After the sound, just say \"let’s meet on October 2nd\"</speak>"
+    "ssml": "<speak>As you can see, a note is displayed.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

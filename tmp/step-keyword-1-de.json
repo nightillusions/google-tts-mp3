@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Wenn Sie zum Beispiel das Wort \"Kunde\" sagen, erstellt die KI eine Notiz für Sie.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}
