@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Als nächstes wird CLINQ.ai Notizen für Sie erstellen.</speak>"
+    "ssml": "<speak>Probieren Sie es selbst aus: Sagen Sie nach dem Ton einfach \"treffen wir uns am 2. Oktober\".</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

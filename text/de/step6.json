@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Probieren Sie es aus! Sagen Sie zum Beispiel \"61 Russell Square in London\".</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

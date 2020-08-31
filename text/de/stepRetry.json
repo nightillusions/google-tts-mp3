@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Entschuldigung, ich habe Sie nicht verstanden. Könnten Sie das wiederholen?</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

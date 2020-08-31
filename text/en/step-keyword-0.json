@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Next, KLINK AI will create notes for you.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

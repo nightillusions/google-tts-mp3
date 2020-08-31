@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Mit KLINK Äi Ei können Sie Ihre eigenen Schlüsselwörter definieren. Wenn diese während eines Gesprächs erwähnt werden, zeigt die KI für jedes Ihrer Schlüsselwörter eine Aktionskarte an. Sie entscheiden, ob sie gespeichert wird oder nicht.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

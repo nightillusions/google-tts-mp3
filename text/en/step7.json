@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>As you can see: the address, suitable transportation and the approximate driving time are now displayed within the Action Card.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

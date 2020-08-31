@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>The keywords have been defined. They are:</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Das hat großartig funktioniert! In dieser Aktionskarte können Sie sehen, welches Datum KLINK Äi Ei für Sie erkannt hätte. Sie können jederzeit entscheiden, ob Sie den Termin von KLINK Äi Ei hinzufügen lassen wollen oder nicht.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

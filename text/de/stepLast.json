@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Das ist alles für den Moment! Vielen Dank für die Nutzung der KLINK Äi Ei Demo. Wir würden uns über Ihr Feedback freuen! Bitte schreiben Sie uns eine Nachricht an häschtäg KLINK in Slack.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

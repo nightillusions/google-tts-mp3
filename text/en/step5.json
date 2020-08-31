@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Now to the next Action Card. This one will show you addresses that are mentioned during a call.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

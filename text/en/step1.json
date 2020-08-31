@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Hi! Here you can try out a demo of how KLINK AI would create appointments in your calendar.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

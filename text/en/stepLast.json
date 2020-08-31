@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>That’s all for now! Thanks for using the KLINK AI demo. We would appreciate your feedback! Please drop us a line on hashtag KLINK in Slack.</speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

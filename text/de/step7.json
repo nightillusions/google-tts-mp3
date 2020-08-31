@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Wie Sie sehen: Die Adresse, das geeignete Verkehrsmittel und die ungefähre Fahrtzeit werden nun innerhalb der Aktionskarte angezeigt.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

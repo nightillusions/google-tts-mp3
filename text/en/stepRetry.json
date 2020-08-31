@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Next, CLINQ.ai will create notes for you.</speak>"
+    "ssml": "<speak>Sorry, I did not understand you. Could you repeat that?</speak>"
   },
   "voice": {
     "languageCode": "en-US",

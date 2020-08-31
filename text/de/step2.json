@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Ein Beispiel: Wenn Sie während eines Anrufs \"Treffen wir uns am 2. Oktober\" sagen, wird KLINK Äi Ei vorschlagen, dieses Datum als Termin in Ihren Kalender einzutragen.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Die Schlüsselwörter sind definiert. Das sind sie:</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}

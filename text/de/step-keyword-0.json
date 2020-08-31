@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak>Als nächstes wird KLINK Äi Ei Notizen für Sie erstellen.</speak>"
+  },
+  "voice": {
+    "languageCode": "de-DE",
+    "name": "de-DE-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}
