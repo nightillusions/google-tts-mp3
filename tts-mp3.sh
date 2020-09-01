@@ -40,5 +40,5 @@ batch_text_to_speech(){
 batch_text_to_speech "de"
 batch_text_to_speech "en"
 
-# text_to_speech ./text/en/step-last.json
-# text_to_speech ./text/de/step-last.json
+# text_to_speech ./text/en/step-signup.json
+# text_to_speech ./text/de/step-signup.json
