@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Hi! Here you can try out a demo of how KLINK AI would create appointments in your calendar.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Hi! Here you can try out a demo of how KLINK AI would create appointments in your calendar.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

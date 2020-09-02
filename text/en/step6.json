@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Try it out! For example say \"61 Russell Square in London\".</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Try it out! For example say \"61 Russell Square in London\".</speak>"
   },
   "voice": {
     "languageCode": "en-US",

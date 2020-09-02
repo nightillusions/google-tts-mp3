@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>That worked out great! In this Action Card you can see which date KLINK AI would have recognized for you. You can always decide whether to let KLINK AI add the appointment or not.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>That worked out great! In this Action Card you can see which date KLINK AI would have recognized for you. You can always decide whether to let KLINK AI add the appointment or not.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

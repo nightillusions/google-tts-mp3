@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>The keywords have been defined. They are:</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>The keywords have been defined. They are:</speak>"
   },
   "voice": {
     "languageCode": "en-US",

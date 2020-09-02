@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>An example: If you say \"let’s meet October 2nd\", during a call, KLINK AI will suggest adding this date as an appointment to your calendar.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>An example: If you say \"let’s meet October 2nd\", during a call, KLINK AI will suggest adding this date as an appointment to your calendar.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/><audio src=\"https://demo.clinq.ai/audio/assistant_chime.mp3\"></audio></speak>"
+    "ssml": "<speak><break time=\"300ms\"/><audio src=\"https://demo.clinq.ai/audio/assistant_chime.mp3\"></audio></speak>"
   },
   "voice": {
     "languageCode": "en-US",

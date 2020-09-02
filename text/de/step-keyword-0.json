@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Als nächstes wird KLINK Äi Ei Notizen für Sie erstellen.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Als nächstes wird KLINK Äi Ei Notizen für Sie erstellen.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

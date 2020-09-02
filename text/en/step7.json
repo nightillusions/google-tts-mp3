@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>As you can see: the address, suitable transportation and the approximate driving time are now displayed within the Action Card.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>As you can see: the address, suitable transportation and the approximate driving time are now displayed within the Action Card.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

@@ -37,9 +37,9 @@ batch_text_to_speech(){
   echo ""
 }
 
-# batch_text_to_speech "de"
-# batch_text_to_speech "en"
+batch_text_to_speech "de"
+batch_text_to_speech "en"
 
 # text_to_speech ./text/en/step-signup.json
 # text_to_speech ./text/de/step-signup.json
-text_to_speech ./text/en/assistant_chime.json
+# text_to_speech ./text/en/assistant_chime.json

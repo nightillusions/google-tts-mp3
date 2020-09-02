@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Now, after the sound, say one or more sentences that contain your keywords.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Now, after the sound, say one or more sentences that contain your keywords.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

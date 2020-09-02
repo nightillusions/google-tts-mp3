@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Next, KLINK AI will create notes for you.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Next, KLINK AI will create notes for you.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

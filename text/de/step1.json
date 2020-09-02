@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Hallo! Hier können Sie eine Demo ausprobieren, wie KLINK Äi Ei Termine in Ihrem Kalender erstellen würde.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Hallo! Hier können Sie eine Demo ausprobieren, wie KLINK Äi Ei Termine in Ihrem Kalender erstellen würde.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

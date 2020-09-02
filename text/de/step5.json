@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Nun zur nächsten Aktionskarte. Diese zeigt Ihnen Adressen, die während eines Gesprächs erwähnt werden.</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Nun zur nächsten Aktionskarte. Diese zeigt Ihnen Adressen, die während eines Gesprächs erwähnt werden.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak><break time=\"500ms\"/>Probieren Sie es selbst aus! Sagen Sie nach dem Ton einen Satz mit dem Wort \"Kunde\" in etwa: \"Bitte geben Sie Ihre Kundennummer an.\"</speak>"
+    "ssml": "<speak><break time=\"300ms\"/>Probieren Sie es selbst aus! Sagen Sie nach dem Ton einen Satz mit dem Wort \"Kunde\" in etwa: \"Bitte geben Sie Ihre Kundennummer an.\"</speak>"
   },
   "voice": {
     "languageCode": "de-DE",
