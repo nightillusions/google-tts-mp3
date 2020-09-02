@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Möchten Sie, dass wir Sie benachrichtigen, wenn clinq.ai beginnt? Geben Sie einfach Ihre E-Mail-Adresse ein. Wir versprechen Ihnen, dass wir Ihnen keinen Spam schicken werden!</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Möchten Sie, dass wir Sie benachrichtigen, wenn clinq.ai beginnt? Geben Sie einfach Ihre E-Mail-Adresse ein. Wir versprechen Ihnen, dass wir Ihnen keinen Spam schicken werden!</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Entschuldigung, ich habe Sie nicht verstanden. Könnten Sie das wiederholen?</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Entschuldigung, ich habe Sie nicht verstanden. Könnten Sie das wiederholen?</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

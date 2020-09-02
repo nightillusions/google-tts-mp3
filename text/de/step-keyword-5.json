@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Geben Sie unten einige beliebige Wörter ein und klicken Sie auf set.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Geben Sie unten einige beliebige Wörter ein und klicken Sie auf set.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

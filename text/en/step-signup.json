@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Would you like us to notify you when clinq.ai starts? Just enter your email address. We promise, we will not send you any spam!</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Would you like us to notify you when clinq.ai starts? Just enter your email address. We promise, we will not send you any spam!</speak>"
   },
   "voice": {
     "languageCode": "en-US",

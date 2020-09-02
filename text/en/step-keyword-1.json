@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>For example, if you say the word \"customer\" the AI will create a note for you.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>For example, if you say the word \"customer\" the AI will create a note for you.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

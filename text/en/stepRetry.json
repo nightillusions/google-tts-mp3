@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Sorry, I did not understand you. Could you repeat that?</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Sorry, I did not understand you. Could you repeat that?</speak>"
   },
   "voice": {
     "languageCode": "en-US",

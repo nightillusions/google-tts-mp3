@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Wie Sie sehen, wird eine Notiz angezeigt.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Wie Sie sehen, wird eine Notiz angezeigt.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

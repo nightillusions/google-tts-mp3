@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>We hope you enjoyed the demo. Thank you very much for participating!</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>We hope you enjoyed the demo. Thank you very much for participating!</speak>"
   },
   "voice": {
     "languageCode": "en-US",

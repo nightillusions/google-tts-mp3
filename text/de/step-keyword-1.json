@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Wenn Sie zum Beispiel das Wort \"Kunde\" sagen, erstellt die KI eine Notiz für Sie.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Wenn Sie zum Beispiel das Wort \"Kunde\" sagen, erstellt die KI eine Notiz für Sie.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

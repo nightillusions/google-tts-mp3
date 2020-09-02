@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Sagen Sie nun nach dem Ton einen oder mehrere Sätze, die Ihre Schlüsselwörter enthalten.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Sagen Sie nun nach dem Ton einen oder mehrere Sätze, die Ihre Schlüsselwörter enthalten.</speak>"
   },
   "voice": {
     "languageCode": "de-DE",

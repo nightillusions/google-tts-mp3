@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Try it out for yourself! After the sound, say a sentence with the word \"customer\" in it like: \"Please state your customer number.\"</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Try it out for yourself! After the sound, say a sentence with the word \"customer\" in it like: \"Please state your customer number.\"</speak>"
   },
   "voice": {
     "languageCode": "en-US",

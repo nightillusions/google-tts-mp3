@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>As you can see, a note is displayed.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>As you can see, a note is displayed.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

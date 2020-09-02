@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>In this demo the Action Cards are only displayed. In the complete service it will be possible to have this notes written in another software, for example a CRM.</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>In this demo the Action Cards are only displayed. In the complete service it will be possible to have this notes written in another software, for example a CRM.</speak>"
   },
   "voice": {
     "languageCode": "en-US",

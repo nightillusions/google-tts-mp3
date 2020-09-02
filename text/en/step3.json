@@ -1,6 +1,6 @@
 {
   "input": {
-    "ssml": "<speak>Try it for yourself: After the sound, just say \"let’s meet on October 2nd\"</speak>"
+    "ssml": "<speak><break time=\"500ms\"/>Try it for yourself: After the sound, just say \"let’s meet on October 2nd\"</speak>"
   },
   "voice": {
     "languageCode": "en-US",
