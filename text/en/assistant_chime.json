@@ -1,0 +1,13 @@
+{
+  "input": {
+    "ssml": "<speak><break time=\"500ms\"/><audio src=\"https://demo.clinq.ai/audio/assistant_chime.mp3\"></audio></speak>"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-WAVENET-C"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "pitch": "5.6"
+  }
+}
